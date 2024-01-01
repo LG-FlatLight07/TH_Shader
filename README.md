@@ -1,1 +1,1 @@
-# TH_ShaderProject
+2024/01/01 : outLine描画用のポストプロセスマテリアルです。PPMI_OutLineのパラメーターを調整して使ってください。
